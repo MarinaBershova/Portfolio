@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-
+My name is Marina Bershova. I want to study a new specialty in the field of IT, I want to become a Software tester. The IT interested me for a long time, so for the last six months I have been trying to understand and acquire the specifics of IT professions. I have already tried myself in front-end development and it was very interesting and exciting. But, in my opinion, Software testing is one of the main and necessary processes that make it possible to obtain a quality product and service. In this portfolio I want to share my testing knowledge and exhibit my technical skills, which I gained during the front end development and testing course I have completed and through self-learning.
 ## Tools
   - PyCharm - IDE for programming with Python
   - Screenpresso - image and video screen capture
