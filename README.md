@@ -15,10 +15,12 @@ My name is Marina Bershova. I want to study a new specialty in the field of IT, 
   - Visual Studio Code
 
 ## Tech skills
+  - Advanced HTML, CSS, and responsive design
+  - JavaScript techniques
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - Finding uniqe CSS Selectors and xPaths
+  - Finding unique CSS Selectors and xPaths
 
 ## Soft skills
   - Goal-driven and quality-minded
