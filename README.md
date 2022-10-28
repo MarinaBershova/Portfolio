@@ -30,7 +30,7 @@ My name is Marina Bershova. I want to study a new specialty in the field of IT, 
 ## Certificates
   - https://www.shecodes.io/certificates/8a0f146b856b6194c5c1b8febb14f77a
   - https://www.shecodes.io/certificates/475fc8f9c8bcde2a981866b2f1921cb3
-  - https://drive.google.com/drive/folders/1Tu6T6TTyjooHNYyYzLHVsXbw4gzdkm6U
+  - https://drive.google.com/file/d/1QOYg0nAWfgbAO19PaQsRuwe7v28kQ00o/view
  
 ## Courses
   - SheCodes Basics
